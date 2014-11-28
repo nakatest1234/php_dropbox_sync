@@ -1,0 +1,3 @@
+[submodule "dropbox_sync/dropbox-sdk"]
+	path = dropbox_sync/dropbox-sdk
+	url = git@github.com:dropbox/dropbox-sdk-php.git
