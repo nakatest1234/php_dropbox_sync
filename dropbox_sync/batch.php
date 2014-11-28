@@ -174,7 +174,7 @@ function auth()
 
 	$config = array(
 		'dropbox_path' => '/htdocs',
-		'upload_path'  => 'htdocs',
+		'upload_path'  => APP_PATH.'htdocs',
 	);
 
 	try
